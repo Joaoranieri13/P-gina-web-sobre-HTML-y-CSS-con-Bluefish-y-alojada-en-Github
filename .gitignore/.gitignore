@@ -1,0 +1,157 @@
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+     body {
+            background-color: rgb(191, 4, 32);
+        }
+        .red{background-color:rgb(130, 28, 0);}
+        .red{color:rgb(196, 196, 196);}
+        .green{color:rgb(97, 184, 20);}
+        .yellow{color:rgb(255, 255, 255);}
+        .strong{color:rgb(72, 86, 166);
+            font-size: 33px;
+        }
+        .lik{color:rgb(252, 252, 252);}
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1 class="red">Joao's Recipe Book</h1>
+        
+        <h2 class="green">Contents:</h2>
+        
+        <ul>
+            <li class="yellow">Brochetas de Pollo y Vegetales a la Parrilla</li><br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Brochetas_de_pollo-Marinadas.JPG"width="317">
+        </ul>
+        
+        <h2 class="green"id="?">Recipe #1</h2>
+        
+        <ul>
+            <li class="yellow">Tiempo de preparación: 20m<br> Marinar por 30m<br>Tiempo de coción: 20m</li>
+            <li class="yellow">Porción por receta: 6 personas</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="green">Ingredients</th>
+                    <th class="green">Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="yellow"><ol><p><li>Taza de jugo de limón fresco</li></p><p><li>Taza de aceite de oliva</li></p><p><li>Cucharadas de caldo con sabor de Pollo</li></p><p><li>Dientes de ajo, picado</li></p><p><li> Libra de pechugas de pollo deshuesadas y sin piel, cortadas<br> en trozos de 3/4 de pulgada</li></p><p><li>Mediana de calabaza verde, mediano cortado a la mitad longitudinalmente y en rebanadas de 3/4 pulgadaz</li></p><p><li>Onzas de champiñones</li></p>
+</ol></td>
+<td class="yellow">
+    <ol><p>1/2</p><p>1/2</p><p>3</p>6<p><p>1<p>1</p>8<p>
+</ol>
+</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong class="strong">Step 1:</strong></p>
+<p class="lik">Procesa el jugo de limón, aceite, Knorr® Caldo con sabor de Pollo y ajo en una licuadora hasta que quede suave.<br>
+<img scr="https://4.bp.blogspot.com/-06LIP-Y-ebk/V2vJgm1HAfI/AAAAAAAAWK8/h66-LOeCxOQT3oHAituQ3h7JaL_bBeZdgCLcB/s1600/C%25C3%25B3mo%2Bvaciar%2Bsu%2Bh%25C3%25ADgado%2Bcon%2Bjugo%2Bde%2Blim%25C3%25B3n%2By%2Baceite%2Bde%2Boliva%2B%2528Receta%2529.JPG">
+</p>
+<strong class="strong">Step 2:</strong><p class="lik">
+Revuelve los vegetales y el pollo con ¾ taza de la mezcla de caldo en un recipiente grande. Ensarta el pollo y los vegetales en los pinchos alternando las piezas*. Reserva la mezcla de caldo restante para untarla sobre las brochetas. (si lo deseas, cubre y refrigera los pinchos 30 minutos o hasta dos horas antes de prepararlos).</p>
+
+<strong class="strong">Step 3:</strong><p class="lik">Cocina los pinchos a la parilla a temperatura media unos 15 minutos, dándoles la vuelta varias veces, y untando una capa con la mezcla de caldo restante sobre los mismos, hasta que el pollo esté bien cocido y los vegetales estén tiernos.</p>
+        
+    <p><em>Source: <a href="http://www.vivemejor.com/recetas/detalle/50186/1/brochetas-de-pollo-y-vegetales-a-la-parrilla">Vive Mejor</a></em></p>
+   
+        
+        <h2 class="green">Contents:</h2>
+        
+        <ul>
+            <li class="yellow">Pan de Muerto</li><br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Salzburger_Nockerln_in_Wien_2.JPG"width="317">
+        </ul>
+        
+        <h2 class="green"id="?">Recipe #1</h2>
+        
+        <ul>
+            <li class="yellow">Tiempo de preparación: 30m<br>Tiempo de coción: 30m</li>
+            <li class="yellow">Porción por receta: 6 personas</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="green">Ingredients</th>
+                    <th class="green">Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="yellow"><ol><p><li>Sobre de levadura activa</li></p><p><li>Taza de agua </li></p><p><li>Taza de leche</li></p><p><li>Huevos, batidos</li></p><p><li>Tazas de harina para todo uso</li></p><p><li>taza de azúcar</li></p><p><li>Cucharadita de sal</li></p>
+</ol></td>
+<td class="yellow">
+    <ol><p>1/2</p><p>1/2</p><p>3</p>6<p><p>1<p>1</p>8<p>
+</ol>
+</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong class="strong">Step 1:</strong></p>
+<p class="lik">Mezcle la levadura con el agua tibia en un tazón mediano y déjela reposar hasta que burbujee, aproximadamente 5 minutos. Agregue la leche, los huevos y el Country Crock® Buttery Sticks; reservelo.<br>
+<img scr="https://4.bp.blogspot.com/-06LIP-Y-ebk/V2vJgm1HAfI/AAAAAAAAWK8/h66-LOeCxOQT3oHAituQ3h7JaL_bBeZdgCLcB/s1600/C%25C3%25B3mo%2Bvaciar%2Bsu%2Bh%25C3%25ADgado%2Bcon%2Bjugo%2Bde%2Blim%25C3%25B3n%2By%2Baceite%2Bde%2Boliva%2B%2528Receta%2529.JPG">
+</p>
+<strong class="strong">Step 2:</strong><p class="lik">
+Aparte, mezcle la harina tamizada, el azúcar y la sal en un tazón grande. Agregue las semillas de hinojo. Haga un pozo en el centro de la harina. Agregue la mezcla de levadura y revuélvala con la harina usando una cuchara de madera hasta formar una masa. Agregue un poco más de harina si la masa está muy húmeda o un poco de leche si está muy seca.</p>
+
+<strong class="strong">Step 3:</strong><p class="lik">Amásela sobre una superficie enharinada hasta que quede tersa y un poco pegajosa, aproximadamente 10 minutos. Ponga la masa en un tazón grande, ligeramente engrasado. Cubra la masa y déjela esponjar en una lugar tibio hasta que crezca al doble de tamaño, aproximadamente una hora.</p>
+<strong class="strong">Step 4:</strong><p class="lik">Bata la clara con el agua y barnice el pan con esta mezcla. Espolvoree con azúcar. Hornee por 35 minutos o hasta que la superficie esté ligeramente dorada. Déjelo enfriar sobre una rejilla metálica.</p>
+        
+    <p><em>Source: <a href="http://www.vivemejor.com/recetas/detalle/50186/1/brochetas-de-pollo-y-vegetales-a-la-parrilla">Vive Mejor</a></em></p>
+    <h2 class="green">Contents:</h2>
+        
+        <ul>
+            <li class="yellow">Empanadas de Pollo Picantes</li><br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Potstickers_RTE.jpg/220px-Potstickers_RTE.jpg"width="317">
+        </ul>
+        
+        <h2 class="green"id="?">Recipe #1</h2>
+        
+        <ul>
+            <li class="yellow">Tiempo de preparación: 30m<br>Tiempo de coción: 3m</li>
+            <li class="yellow">Porción por receta: 2 personas</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="green">Ingredients</th>
+                    <th class="green">Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="yellow"><ol><p><li>Cucharada de aceite de oliva</li></p><p><li>Taza de agua </li></p><p><li>Taza de cebolla blanca, picada</li></p><p><li>Huevos, batidos</li></p><p><li>Tazas de harina para todo uso</li></p><p><li>Taza de aceitunas rellenas de pimiento, picadas</li></p><p><li>Cucharadita de canela molida</li></p>
+</ol></td>
+<td class="yellow">
+    <ol><p>1/2</p><p>1/2</p><p>3</p>6<p><p>1<p>1</p>3/2<p>
+</ol>
+</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong class="strong">Step 1:</strong></p>
+<p class="lik">Caliente el aceite de oliva en una sartén grande a fuego medio-alto y cocine la cebolla, revolviéndola de vez en cuando, por aproximadamente 3 minutos o hasta que esté tierna, Añada el ajo y cocine por 1 minuto. Agregue el pollo y cocine por aproximadamente 4 minutos, revolviendo frecuentemente para deshacer los pedazos de la carne molida. Incorpore el tomate y los siguientes 5 ingredientes y cocine, revolviéndolos de vez en cuando, por aproximadamente 7 minutos o hasta que el pollo se cocine bien. Retírelo del fuego; déjelo enfriar.<br>
+<img scr="https://4.bp.blogspot.com/-06LIP-Y-ebk/V2vJgm1HAfI/AAAAAAAAWK8/h66-LOeCxOQT3oHAituQ3h7JaL_bBeZdgCLcB/s1600/C%25C3%25B3mo%2Bvaciar%2Bsu%2Bh%25C3%25ADgado%2Bcon%2Bjugo%2Bde%2Blim%25C3%25B3n%2By%2Baceite%2Bde%2Boliva%2B%2528Receta%2529.JPG">
+</p>
+<strong class="strong">Step 2:</strong><p class="lik">
+Amase los discos de masa para formar círculos de 5 pulgadas sobre una superficie muy ligeramente enharinada. Con una cuchara coloque 2 cucharadas de la mezcla de pollo en el centro de cada círculo. Espolvoree uniformemente con el queso. Doble cada uno por la mitad, presionando para eliminar las burbujas de aire. Humedezca los bordes con agua y séllelos apretadamente con un tenedor.</p>
+
+<strong class="strong">Step 3:</strong><p class="lik">Caliente el aceite vegetal a 350°F en una sartén mediana y profunda. Cocine las empanadas, en tandas pequeñas, por aproximadamente 3 minutos o hasta que se doren, volteándolas una vez. Escúrralas sobre papel toalla.</p>
+        
+    <p><em>Source: <a href="http://www.vivemejor.com/recetas/detalle/10484/1/empanadas-de-pollo-picantes">Vive Mejor</a></em></p>
+</body>    
+</html>
